@@ -1,0 +1,9 @@
+numpy>=2.2.4
+matplotlib>=3.10
+Flask>=3.1.0
+flask-cors>=5.0.1
+pandas>=1.5.0
+psycopg2-binary>=2.9.0
+serverless-wsgi>=3.0.0
+pymongo[srv]>=4.6.0
+dnspython>=2.0.0
